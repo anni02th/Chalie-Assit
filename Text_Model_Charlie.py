@@ -8,7 +8,7 @@ import wave
 import subprocess
 
 # Your OpenAI API key
-api_key = "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"
+api_key = "sk-api"   """add your own API key"""
 client = OpenAI(api_key=api_key)
 
 def getUserInput():
