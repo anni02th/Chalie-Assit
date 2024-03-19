@@ -1,0 +1,6 @@
+Overview: This Model was develope using Chat-GPT Turbo 3.5, this program helps me to create my own assitance model. Currently working on it to develope it for more use to do my small task. Soon i will upgrade this to do more task either than Answer question, Solving code.
+
+Perks and Prons :
+        1. If we use engine.say , we can stop the respose . Lets say if the engine starts of read the answer for the question then it wont stop untile it finishes answering the question. But if we use the gTTS model the TTS.save creates a new or updates the audio file 1.mp3 which allows you to controle the respose speech.
+
+        My prefrence is system engine cause it looks cool than opening the Media player. There is one more feature im working on is speech to speech but I guess I will still need to study and then develope the model.
