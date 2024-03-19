@@ -3,7 +3,7 @@ import pyttsx3
 from openai import OpenAI
 
 # Initialize OpenAI API
-api_key = "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"
+api_key = "sk-unFNmw95fzOcsaFUwP7GT3Blj"     """add your API key"""
 client = OpenAI(api_key=api_key)
 
 # Function to get user input via voice
